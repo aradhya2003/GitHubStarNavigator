@@ -1,0 +1,10 @@
+.options-container {
+  margin: 200px auto 20px;
+  max-width: 700px;
+}
+
+.options-container .container {
+  background: white;
+  padding: 25px 30px;
+  border-radius: 20px;
+}
