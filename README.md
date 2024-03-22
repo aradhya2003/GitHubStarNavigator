@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>Weekly Trending Projects – Grid View</b><br>
-  <sub> Change the view options from the filters list 💥</sub>
+  <sub> Change the view options from the filters list </sub>
 </p>
 <p align="center">
   <img src="https://github.com/aradhya2003/GitHubStarNavigator/assets/83398496/3e3b234d-3d45-49d2-b8a0-8416e0ea3ec2" alt="Screenshot 2024-03-22 012914" />
@@ -29,11 +29,10 @@
 
 <p align="center">
   <b>Filter by Language</b><br>
-  <sub>💥 Will remember your selection of language 💥</sub>
+  <sub> Will remember your selection of language </sub>
 </p>
 
 <p align="center">
-  <img src="<p align="center">
   <img src="https://github.com/aradhya2003/GitHubStarNavigator/assets/83398496/8da0254a-c419-46a4-b6c7-199791d2b130" alt="Screenshot 2024-03-22 012914" />
 </p>
 
